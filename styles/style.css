@@ -1,0 +1,173 @@
+body {
+    font-family: 'Manrope', Courier, monospace;
+}
+
+.osnova-block{
+    width: 1150px;
+    height: 650px;
+    margin-top: 128px;
+}
+
+h1 {
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 400;
+    width: 1000px;
+    height: 120px;
+    padding-bottom: 30px;
+    margin-left: 125px;
+
+    color: #121212;
+}
+
+.popa {
+    width: 1150px;
+    height: 500px;
+    margin-left: 125px;
+
+    background-image: url(../resources/aaaaaa.jpg);
+}
+.text-osnova {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27.32px;
+    color: #ffffff;
+    width: 450px;
+    height: 81px;
+    padding: 379px 680px 40px 40px;
+}
+
+.poh-block {
+    width: 1051px;
+    height: 518px;
+    margin: 150px 100px 0px 125px;
+}
+.o-nas-poh-block {
+    Width: 53px;
+    Height: 25px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.59px;
+    padding-bottom: 30px;
+}
+.text-poh-block {
+    Width: 1020px; 
+    Height: 366px;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 61.47px;
+    padding-bottom: 100px;
+}
+.btn {
+    display: block;
+    width: 255px;
+    height: 67px;
+    border: 5px solid #AD1818;
+    text-align: center;
+    line-height: 67px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #AD1818;
+    border-radius: 15px;
+    margin-bottom: 150px;
+    margin-left: 125px;
+}
+.btn:hover {
+    color: #AD1818;
+    background-color: #ffffff;
+    border-radius: 50px;
+}
+
+.project {
+    Width: 1150px;
+    Height: 2122px;
+    top: 1596px;
+    margin-left:125px;
+}
+.title-project {
+    width: 79px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24.59px;
+    color: #121212;
+    margin-bottom: 30px;
+}
+img {
+    width: 1150px;
+}
+.project-description {
+    width: 600px;
+    height: 40px;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 40.98px;
+    color: #121212;
+    margin-bottom: 15px;
+}
+.details {
+    width: 127px;
+    color: #AD1818;
+    font-weight: 400;
+    line-height: 27.32px;
+    font-size: 20px;
+    text-decoration: none; 
+    display: block;
+    margin-bottom: 90px;
+}
+.details:hover {
+    color: rebeccapurple;
+}
+
+.all-projects {
+    width: 1150px;
+    height: 153px;
+
+    border-radius: 5px;
+    border: 1px solid #AD1818;
+}
+.xz-button {
+    display: block;
+    width: 1150px;
+    height: 41px;
+    text-align: center;
+    text-decoration: none;
+    line-height: 41px;
+    font-weight: 400;
+    font-size: 30px;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    color: #AD1818;
+}
+.xz-button:hover {
+    color: #ffffff;
+    background-color: #AD1818;
+}
+
+.price-block {
+    width: 100%;
+    background-color: #121212;
+}
+.services {
+    width: 66px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.59px;
+    box-sizing: border-box;
+    color: #ffffff;
+    padding-top: 150px;
+    padding-left: 125px;
+}
+.price-photo {
+    width: 1150px;
+    padding-top: 60px;
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+.price-description {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40.98px;
+
+}
