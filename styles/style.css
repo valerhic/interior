@@ -227,3 +227,46 @@ img {
     padding: 575px 832px 60px 125px;
 }
 
+.contacts-block {
+    width: 489px;
+    height: 217px;
+    margin-top: 186px;
+}
+
+.name-contacts{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24.59px;
+    position: relative;
+}
+
+.name-contacts:after {
+    content: '';
+    display: block;
+    width: 13px;
+    height: 22px;
+    position: absolute;
+    bottom: 30px;
+
+    background-image: url(/resources/Vector.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.tell {
+    padding-bottom: 32px;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    text-decoration: none;
+    color: #121212;
+}
+.mail {
+    text-decoration: none;
+    color: #707070;
+    font-family: Manrope;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+}
