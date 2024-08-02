@@ -231,6 +231,7 @@ img {
     width: 489px;
     height: 217px;
     margin-top: 186px;
+    margin-bottom: 160px;
 }
 
 .name-contacts{
@@ -238,6 +239,7 @@ img {
     font-size: 18px;
     line-height: 24.59px;
     position: relative;
+    margin-bottom: 32px;
 }
 
 .name-contacts:after {
@@ -255,12 +257,14 @@ img {
 }
 
 .tell {
-    padding-bottom: 32px;
     font-size: 60px;
     font-weight: 400;
     line-height: 60px;
     text-decoration: none;
     color: #121212;
+}
+.nomer {
+    margin-bottom: 30px;
 }
 .mail {
     text-decoration: none;
@@ -269,4 +273,50 @@ img {
     font-size: 60px;
     font-weight: 400;
     line-height: 60px;
+}
+
+.nav-bottom-block {
+    display: flex;
+    justify-content: center;
+    width: 1700px;
+    height: 229px;
+    background-color: #121212;
+    position: relative;
+}
+.nav-bottom {
+    display: flex;
+    justify-content: space-between;
+    width: 450px;
+    position: absolute;
+    top: 60px;
+}
+.nav-link-bottom {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.59px;
+}
+.nav-link-bottom:hover {
+    text-decoration: underline;
+}
+.nav-bottom-o-nas{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.59px;
+    opacity: 50%;
+}
+.nav-bottom-o-nas:hover {
+    text-decoration: underline;
+}
+.text-nav {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.32px;
+    margin-top: 160px;
+    text-align: center;
+    color: #ffffff;
+    opacity: 50%;
 }
